@@ -20,6 +20,7 @@ public class SPTV20GitPro {
         System.out.println("Third version of the project");
         System.out.println("Fourth version of the project");
         System.out.println("Fifth version of the project");
+        System.out.println("Sixth version of the project");
     }
     
 }
